@@ -12,18 +12,20 @@ Topics covered:
 - Lookup functions (VLOOKUP, XLOOKUP)
 - Sorting, filtering, and tables
 
-##Excel – Day 2
+Excel – Day 2
+=============
 Topics covered:
-
--Data cleaning and text standardization
--Text functions for cleaning (TRIM, PROPER, UPPER)
--Handling missing values
--Analysis questions (unique customers, total sales, average sales, city-wise sales)
--Helper tables for city-wise aggregation
+- Data cleaning and text standardization
+- Text functions for cleaning (TRIM, PROPER, UPPER)
+- Handling missing values
+- Analysis questions (unique customers, total sales, average sales, city-wise sales)
+- Helper tables for city-wise aggregation
 
 Tools used:
-Microsoft Excel
-GitHub
+- Microsoft Excel
+- GitHub
+
+
 
 
 
