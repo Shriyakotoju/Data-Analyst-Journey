@@ -21,14 +21,17 @@ Topics covered:
 - Analysis questions (unique customers, total sales, average sales, city-wise sales)
 - Helper tables for city-wise aggregation
 
-Tools used:
-- Microsoft Excel
-- GitHub
+Excel – Day 3
 
+Topics covered:
 
-
-
-
+- PivotTables for business analysis
+- Sales analysis by city and category
+- Time-based sales trend analysis
+- Creating helper columns for date analysis (Excel Online)
+- Chart creation (Column and Line charts)
+- Using slicers for interactive filtering
+- Building a clean, interactive Excel dashboard
 
 Tools used:
 - Microsoft Excel
